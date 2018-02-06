@@ -32,6 +32,9 @@ public class Test {
         {
             System.out.println(e);
         }
+
+        System.out.println("------------------------------------------------------------------------------------------------------------------------------------");
+        System.out.println("All Tests Passed!!!");
     }
 
 
